@@ -90,7 +90,7 @@ def extract(fname):
 	# TODO: better file detection
 	if fname.endswith('.zip') or fname.endswith('.epub') or fname.endswith('.htmlz'):
 		extract_zip(fname)
-	if fname.endswith('.tar.gz') or fname.endswith('.tar.xz'):
+	elif fname.endswith('.tar.gz') or fname.endswith('.tar.xz'):
 		extract_tar(fname)
 	else:
 		print(f'file extension unknown')
