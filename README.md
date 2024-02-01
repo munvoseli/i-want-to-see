@@ -2,6 +2,8 @@
 
 usage: `iwts.py a.zip.tar.gz.xz.wahtever` and then u get a folder in your working directory
 
+---
+
 have you ever unzipped a zip file and the contents splattered all over your directory like ketchup?
 
 have you ever extracted a tar archive and the permissions were so messed up
