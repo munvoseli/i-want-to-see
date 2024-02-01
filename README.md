@@ -20,9 +20,9 @@ and is otherwise unhelpful
 and (insert command line tool) having enough options that it takes more than 20 minutes to go through
 in a domain with so much potential vocabulary that you need a thesaurus if you're gonna search for a feature.
 
-This program is entirely a convenience wrapper over archive extraction.
+idk.  maybe it's something i subject myself to for no reason whatsoever
 
-Simple.  Pona.
+This program is a pona convenience wrapper over archive extraction.
 
 * if the entries in the archive aren't all in one folder, it will put them all in one folder.
 * regarding permissions and ownership in tar archives,
